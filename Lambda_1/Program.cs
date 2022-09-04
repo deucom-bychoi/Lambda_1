@@ -12,6 +12,7 @@ namespace Lambda_1
         {
             Console.WriteLine("Git Test");
             Console.WriteLine("File update 2");
+            Console.WriteLine("File update 3");
 
         }
     }
