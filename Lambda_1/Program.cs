@@ -11,6 +11,8 @@ namespace Lambda_1
         static void Main(string[] args)
         {
             Console.WriteLine("Git Test");
+            Console.WriteLine("File update 2");
+
         }
     }
 }
